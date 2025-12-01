@@ -58,7 +58,7 @@ A fast, modern, and responsive portfolio using **Next.js + Tailwind CSS**.
 
 ### 🔹 **2. Laravel E-Commerce Web App**
 Full-stack e-commerce system with authentication, payments, admin panel & product management.  
-👉 [[View Repository](#)](https://github.com/Montyprofound/Jewelry-E-commerce.git)
+👉 https://github.com/Montyprofound/Jewelry-E-commerce.git
 
 ### 🔹 **3. Cybersecurity Tools Bundle**
 A collection of simple security scripts, networking tools, and automation utilities.  
