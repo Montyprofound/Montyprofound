@@ -86,8 +86,8 @@ A collection of simple security scripts, networking tools, and automation utilit
 ## 📫 Connect With Me
 
 - Email: **mosesmwendwa@example.com**  
-- LinkedIn: *Add your link here*  
-- Portfolio Website: *(Link after deployment)*  
+- LinkedIn:   
+- Portfolio Website: my-portfolio-jade-three-39.vercel.app  
 
 ---
 
